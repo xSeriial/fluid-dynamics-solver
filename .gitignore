@@ -1,6 +1,15 @@
 
 
 
+# Poetry
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Poetry environment info
+.poetry/
 
 # Standard AI generated python ignore files
 # Virtual environments
