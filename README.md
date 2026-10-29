@@ -2,6 +2,14 @@
 In this repository I write fluid dynamics solvers from scratch to solidify knowledge obtained during my studies.
 It will start of by implementing standard Euler grid Navier Stokes solvers and LAttice Boltzmann methods and might later on feature AI extensions.
 
+## Plan
+1. Create a basic grid class
+2. Build a basic LBM solver e.g. D2Q9
+3. Introduce immersed boundary method
+4. Integrate IBM into LBM solver
+5. Build Navier Stokes solver
+6. Use shared IBM module in NS solver
+
 ## TODO
 
 - [ ] Move basic theory away from README.md
