@@ -1,5 +1,7 @@
 
-
+# Theory note exclusion
+theory/handwritten_notes.xopp
+theory/.handwritten_notes.autosave.xopp
 
 # Poetry
 # Python cache files
